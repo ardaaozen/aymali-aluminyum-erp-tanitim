@@ -1,4 +1,4 @@
-![Aymalı Alüminyum ERP](assets/aymali-erp-hero.png)
+![Aymalı Alüminyum ERP](assets/premium-cover.svg)
 
 <h1 align="center">Aymalı Alüminyum ERP</h1>
 
